@@ -6,8 +6,8 @@
     {
       "chipFamily": "ESP8266",
       "parts": [
-        { "path": "firmware_d1_mini_pro_1.4.0-rc.14.bin", "offset": 0 },
-        { "path": "filesystem_d1_mini_pro_1.4.0-rc.14.bin", "offset": 765952 }
+        { "path": "firmware_d1_mini_lite_1.4.0-rc.14.bin", "offset": 0 },
+        { "path": "filesystem_d1_mini_lite_1.4.0-rc.14.bin", "offset": 765952 }
       ]
     }
   ]
